@@ -1,0 +1,127 @@
+Area,District,Sub-districts,Rental Value (HKD)
+Hong Kong,Central and Western,Kennedy Town,188000
+Hong Kong,Central and Western,Shek Tong Tsui,188000
+Hong Kong,Central and Western,Sai Ying Pun,188000
+Hong Kong,Central and Western,Sheung Wan,188000
+Hong Kong,Central and Western,Central,188000
+Hong Kong,Central and Western,Admiralty,188000
+Hong Kong,Central and Western,Mid-levels,188000
+Hong Kong,Central and Western,Peak,188000
+Hong Kong,Wan Chai,Wan Chai,194000
+Hong Kong,Wan Chai,Causeway Bay,194000
+Hong Kong,Wan Chai,Happy Valley,194000
+Hong Kong,Wan Chai,Tai Hang,194000
+Hong Kong,Wan Chai,So Kon Po,194000
+Hong Kong,Wan Chai,Jardine's Lookout,194000
+Hong Kong,Eastern,Tin Hau,175000
+Hong Kong,Eastern,Braemar Hill,175000
+Hong Kong,Eastern,North Point,175000
+Hong Kong,Eastern,Quarry Bay,175000
+Hong Kong,Eastern,Sai Wan Ho,175000
+Hong Kong,Eastern,Shau Kei Wan,175000
+Hong Kong,Eastern,Chai Wan,175000
+Hong Kong,Eastern,Siu Sai Wan,175000
+Hong Kong,Southern,Pok Fu Lam,157000
+Hong Kong,Southern,Aberdeen,157000
+Hong Kong,Southern,Ap Lei Chau,157000
+Hong Kong,Southern,Wong Chuk Hang,157000
+Hong Kong,Southern,Shouson Hill,157000
+Hong Kong,Southern,Repulse Bay,157000
+Hong Kong,Southern,Chung Hom Kok,157000
+Hong Kong,Southern,Stanley,157000
+Hong Kong,Southern,Tai Tam,157000
+Hong Kong,Southern,Shek O,157000
+Kowloon,Yau Tsim Mong,Tsim Sha Tsui,144000
+Kowloon,Yau Tsim Mong,Yau Ma Tei,144000
+Kowloon,Yau Tsim Mong,West Kowloon Reclamation,144000
+Kowloon,Yau Tsim Mong,King's Park,144000
+Kowloon,Yau Tsim Mong,Mong Kok,144000
+Kowloon,Yau Tsim Mong,Tai Kok Tsui,144000
+Kowloon,Sham Shui Po,Mei Foo,137000
+Kowloon,Sham Shui Po,Lai Chi Kok,137000
+Kowloon,Sham Shui Po,Cheung Sha Wan,137000
+Kowloon,Sham Shui Po,Sham Shui Po,137000
+Kowloon,Sham Shui Po,Shek Kip Mei,137000
+Kowloon,Sham Shui Po,Yau Yat Tsuen,137000
+Kowloon,Sham Shui Po,Tai Wo Ping,137000
+Kowloon,Sham Shui Po,Stonecutters Island,137000
+Kowloon,Kowloon City,Hung Hom,146000
+Kowloon,Kowloon City,To Twa Wan,146000
+Kowloon,Kowloon City,Ma Tau Kok,146000
+Kowloon,Kowloon City,Ma Tau Wai,146000
+Kowloon,Kowloon City,Kai Tak,146000
+Kowloon,Kowloon City,Kowloon City,146000
+Kowloon,Kowloon City,Ho Man Tin,146000
+Kowloon,Kowloon City,Kowloon Tong,146000
+Kowloon,Kowloon City,Beacon Hill,146000
+Kowloon,Wong Tai Sin,San Po Kong,121000
+Kowloon,Wong Tai Sin,Wong Tai Sin,121000
+Kowloon,Wong Tai Sin,Tung Tau,121000
+Kowloon,Wong Tai Sin,Wang Tau Hom,121000
+Kowloon,Wong Tai Sin,Lok Fu,121000
+Kowloon,Wong Tai Sin,Diamond Hill,121000
+Kowloon,Wong Tai Sin,Tsz Wan Shan,121000
+Kowloon,Wong Tai Sin,Ngau Chi Wan,121000
+Kowloon,Kwun Tong,Ping Shek,124000
+Kowloon,Kwun Tong,Kowloon Bay,124000
+Kowloon,Kwun Tong,Ngau Tau Kok,124000
+Kowloon,Kwun Tong,Jordan Valley,124000
+Kowloon,Kwun Tong,Kwun Tong,124000
+Kowloon,Kwun Tong,Sau Mau Ping,124000
+Kowloon,Kwun Tong,Lam Tin,124000
+Kowloon,Kwun Tong,Yau Tong,124000
+Kowloon,Kwun Tong,Lei Yue Mun,124000
+New Territories,Kwai Tsing,Kwai Chung,129000
+New Territories,Kwai Tsing,Tsing Yi,129000
+New Territories,Tsuen Wan,Tsuen Wan,149000
+New Territories,Tsuen Wan,Lei Muk Shue,149000
+New Territories,Tsuen Wan,Ting Kau,149000
+New Territories,Tsuen Wan,Sham Tseng,149000
+New Territories,Tsuen Wan,Tsing Lung Tau,149000
+New Territories,Tsuen Wan,Ma Wan,149000
+New Territories,Tsuen Wan,Sunny Bay,149000
+New Territories,Tuen Mun,Tai Lam Chung,96000
+New Territories,Tuen Mun,So Kwun Wat,96000
+New Territories,Tuen Mun,Tuen Mun,96000
+New Territories,Tuen Mun,Lam Tei,96000
+New Territories,Yuen Long,Hung Shui Kiu,94000
+New Territories,Yuen Long,Ha Tsuen,94000
+New Territories,Yuen Long,Lau Fau Shan,94000
+New Territories,Yuen Long,Tin Shui Wai,94000
+New Territories,Yuen Long,Yuen Long,94000
+New Territories,Yuen Long,San Tin,94000
+New Territories,Yuen Long,Lok Ma Chau,94000
+New Territories,Yuen Long,Kam Tin,94000
+New Territories,Yuen Long,Shek Kong,94000
+New Territories,Yuen Long,Pat Heung,94000
+New Territories,North,Fanling,92000
+New Territories,North,Luen Wo Hui,92000
+New Territories,North,Sheung Shui,92000
+New Territories,North,Shek Wu Hui,92000
+New Territories,North,Sha Tau Kok,92000
+New Territories,North,Luk Keng,92000
+New Territories,North,Wu Kau Tang,92000
+New Territories,Tai Po,Tai Po Market,108000
+New Territories,Tai Po,Tai Po,108000
+New Territories,Tai Po,Tai Po Kau,108000
+New Territories,Tai Po,Tai Mei Tuk,108000
+New Territories,Tai Po,Shuen Wan,108000
+New Territories,Tai Po,Cheung Muk Tau,108000
+New Territories,Tai Po,Kei Ling Ha,108000
+New Territories,Sha Tin,Tai Wai,137000
+New Territories,Sha Tin,Sha Tin,137000
+New Territories,Sha Tin,Fo Tan,137000
+New Territories,Sha Tin,Ma Liu Shui,137000
+New Territories,Sha Tin,Wu Kai Sha,137000
+New Territories,Sha Tin,Ma On Shan,137000
+New Territories,Sai Kung,Clear Water Bay,148000
+New Territories,Sai Kung,Sai Kung,148000
+New Territories,Sai Kung,Tai Mong Tsai,148000
+New Territories,Sai Kung,Tseung Kwan O,148000
+New Territories,Sai Kung,Hang Hau,148000
+New Territories,Sai Kung,Tiu Keng Leng,148000
+New Territories,Sai Kung,Ma Yau Tong,148000
+New Territories,Islands,Cheung Chau,105000
+New Territories,Islands,Peng Chau,105000
+New Territories,Islands,Lantau Island,105000
+New Territories,Islands,Lamma island,105000
